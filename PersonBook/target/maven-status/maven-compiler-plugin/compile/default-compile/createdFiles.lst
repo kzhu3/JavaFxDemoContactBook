@@ -1,0 +1,8 @@
+module-info.class
+PersonBook\PrimaryController.class
+PersonBook\EditController.class
+PersonBook\SecondaryController.class
+PersonBook\App.class
+PersonBook\DataHelper.class
+PersonBook\CaseNotes.class
+PersonBook\ContactPerson.class
